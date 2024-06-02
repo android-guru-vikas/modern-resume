@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Vikas Bharti
-title: Engg. Manager/Mobile Apps Developer
+title: Engg. Manager/Mobile App Developer
 email: dev.vikas.bharti@carnot.co.in
 website: www.github.com/sproogen/resume-theme
 
@@ -21,7 +21,7 @@ github_username:  android-guru-vikas
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: bhartivikas
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -31,9 +31,9 @@ linkedin_username: bhartivikas
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Awesome Android
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://medium.com/awesomeandroid
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Vikas and I'm working as Engg. Manager at M&M Group currently. I have 9+ years of experience in developing mobile apps and leading teams. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Android</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
