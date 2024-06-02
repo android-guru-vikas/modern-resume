@@ -72,6 +72,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
 
+      - layout: top-middle
+              title: Krishe Smart Kit
+              link: https://play.google.com/store/apps/details?id=com.carnot.krishe.kisaandiary
+              # link_text: Project Website
+              # additional_links:
+              #   - title:  sproogen/modern-resume-theme
+              #     icon: fab fa-github
+              #     url: github.com/sproogen/modern-resume-theme
+                # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+                #   icon: fab fa-github
+                #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+              quote: >
+                Krish-e : Kheti Ke Liye App
+              description: | # this will include new lines to allow paragraphs
+                Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
