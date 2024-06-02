@@ -1,182 +1,154 @@
-# Site
-repository: sproogen/modern-resume-theme
-favicon: images/favicon.ico
+  # Site
+  repository: sproogen/modern-resume-theme
+  favicon: images/favicon.ico
 
-# Content configuration version
-version: 2
+  # Content configuration version
+  version: 2
 
-# Personal info
-name: Vikas Bharti
-title: Engg. Manager/Mobile App Developer
-email: dev.vikas.bharti@carnot.co.in
-website: https://medium.com/awesomeandroid
+  # Personal info
+  name: Vikas Bharti
+  title: Engg. Manager/Mobile App Developer
+  email: dev.vikas.bharti@carnot.co.in
+  website: https://medium.com/awesomeandroid
 
-# Dark Mode (true/false/never)
-darkmode: true
+  # Dark Mode (true/false/never)
+  darkmode: true
 
-# Social links
-twitter_username: vikas_bharti26
-github_username:  android-guru-vikas
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-linkedin_username: bhartivikas
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+  # Social links
+  twitter_username: vikas_bharti26
+  github_username:  android-guru-vikas
+  # stackoverflow_username: "00000001"
+  # dribbble_username: jekyll
+  # facebook_username: jekyll
+  # flickr_username: jekyll
+  # instagram_username: jameswgrant
+  linkedin_username: bhartivikas
+  # xing_username: jekyll
+  # pinterest_username: jekyll
+  # youtube_username: globalmtb
+  # googleplus_username: +jekyll
+  # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: Awesome Android
-  icon: fas fa-globe
-  url: https://medium.com/awesomeandroid
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  # Additional icon links
+  additional_links:
+  - title: Awesome Android
+    icon: fas fa-globe
+    url: https://medium.com/awesomeandroid
+  # - title: another link
+  #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+  #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  # Google Analytics and Tag Manager
+  # Using more than one of these may cause issues with reporting
+  # gtm: "GTM-0000000"
+  # gtag: "UA-00000000-0"
+  # google_analytics: "UA-00000000-0"
 
-# About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Vikas and I'm working as Engg. Manager at M&M Group currently. Skilled in Android, Objective C, Java, Realm, RoomDB, Online/Offline Framework, and iOS Applications. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused on Computer Science exploring new technologies and learning more about product architecture and engineering.
-  
-  I am most skilled in: <mark>Android</mark> and <mark>Eating Pizza</mark>
+  # About Section
+  # about_title: About Me
+  about_profile_image: images/profile.jpg
+  about_content: | # this will include new lines to allow paragraphs
+    Hi, my name's Vikas and I'm working as Engg. Manager at M&M Group currently. Skilled in Android, Objective C, Java, Realm, RoomDB, Online/Offline Framework, and iOS Applications. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused on Computer Science exploring new technologies and learning more about product architecture and engineering.
+    
+    I am most skilled in: <mark>Android</mark> and <mark>Eating Pizza</mark>
 
-content:
-  - title: Projects # Kisaan Diary : Agricultural Diary
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Kisaan Diary
-        link: https://play.google.com/store/apps/details?id=com.carnot.krishe.kisaandiary
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Krish-e : Kheti Ke Liye App
-        description: | # this will include new lines to allow paragraphs
-          Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
+  content:
+    - title: Projects # Kisaan Diary : Agricultural Diary
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: top-middle
+          title: Kisaan Diary
+          link: https://play.google.com/store/apps/details?id=com.carnot.krishe.kisaandiary
+          # link_text: Project Website
+          # additional_links:
+          #   - title:  sproogen/modern-resume-theme
+          #     icon: fab fa-github
+          #     url: github.com/sproogen/modern-resume-theme
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            Krish-e : Kheti Ke Liye App
+          description: | # this will include new lines to allow paragraphs
+            Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
 
-      - layout: top-middle
-        title: Smart Irrigation System
-        link: https://example.com/smart-irrigation
-        quote: >
-          Revolutionizing Water Management in Agriculture
-        description: | # this will include new lines to allow paragraphs
-          The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
-      - layout: top-middle
-              title: Smart Irrigation System
-              link: https://example.com/smart-irrigation
-              quote: >
-                Revolutionizing Water Management in Agriculture
-              description: | # this will include new lines to allow paragraphs
-                The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
-      - layout: top-middle
-              title: Smart Irrigation System
-              link: https://example.com/smart-irrigation
-              quote: >
-                Revolutionizing Water Management in Agriculture
-              description: | # this will include new lines to allow paragraphs
-                The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
-      - layout: top-middle
-              title: Smart Irrigation System
-              link: https://example.com/smart-irrigation
-              quote: >
-                Revolutionizing Water Management in Agriculture
-              description: | # this will include new lines to allow paragraphs
-                The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
-      - layout: top-middle
-              title: Smart Irrigation System
-              link: https://example.com/smart-irrigation
-              quote: >
-                Revolutionizing Water Management in Agriculture
-              description: | # this will include new lines to allow paragraphs
-                The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
-      - layout: top-middle
-              title: Smart Irrigation System
-              link: https://example.com/smart-irrigation
-              quote: >
-                Revolutionizing Water Management in Agriculture
-              description: | # this will include new lines to allow paragraphs
-                The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
-      - layout: top-middle
-              title: Smart Irrigation System
-              link: https://example.com/smart-irrigation
-              quote: >
-                Revolutionizing Water Management in Agriculture
-              description: | # this will include new lines to allow paragraphs
-                The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
-      - layout: top-middle
-              title: Smart Irrigation System
-              link: https://example.com/smart-irrigation
-              quote: >
-                Revolutionizing Water Management in Agriculture
-              description: | # this will include new lines to allow paragraphs
-                The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
+        - layout: top-middle
+          title: Smart Irrigation System
+          link: https://example.com/smart-irrigation
+          quote: >
+            Revolutionizing Water Management in Agriculture
+          description: | # this will include new lines to allow paragraphs
+            The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
+        - layout: top-middle
+          title: Smart Irrigation System
+          link: https://example.com/smart-irrigation
+          quote: >
+                      Revolutionizing Water Management in Agriculture
+          description: | # this will include new lines to allow paragraphs
+                      The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
+        - layout: top-middle
+          title: Smart Irrigation System
+          link: https://example.com/smart-irrigation
+          quote: >
+                  Revolutionizing Water Management in Agriculture
+          description: | # this will include new lines to allow paragraphs
+                  The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
+        - layout: top-middle
+          title: Smart Irrigation System
+          link: https://example.com/smart-irrigation
+          quote: >
+                  Revolutionizing Water Management in Agriculture
+          description: | # this will include new lines to allow paragraphs
+                  The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
+        
 
+    - title: Experience # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Carnot Technologies
+          link: https://www.carnot.co.in/
+          # link_text: boringcompany.com
+          sub_title: Engg. Manager
+          caption: June 2022 - Present
+          quote: >
+            Solving 21st century problems by digging holes and making game-changing products like advanced irrigation systems and smart farming solutions, revolutionizing agriculture in India and empowering farmers with innovative, sustainable technologies.
+          description: | # this will include new lines to allow paragraphs
+              An AI-enabled Agri IoT platform. Supported by Qualcomm. Raised Series B from Mahindra & Whiteboard capital. Our flagship product is the Krish e Smart Kit – a business management product for the rental tractor entrepreneur. Our customers typically improve their tractor income up to 30% making the payback period for Krish e Smart Kit less than 2 months.
+    - title: Education # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Uttar Pradesh Technical University(UPTU)
+          caption: 2009 - 2013
+          sub_title: B.Tech. in Computer Science
+          quote: >
+            Dr. A.P.J. Abdul Kalam Technical University (AKTU) (formerly UPTU) was established in May 2000 by the Government of Uttar Pradesh with a mission to acclimate and cultivate the excellence in technical education and research by integrating human values and ethics among students. The University is affiliating in nature and its jurisdiction spans the entire state of Uttar Pradesh in affiliating 700+ colleges/institutions imparting graduate, postgraduate and doctoral level training in all government and private institutions located in all over UP.
+          description: | # this will include new lines to allow paragraphs
+            During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time IN university and learnt a lot about a healthy work life balance.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Carnot Technologies
-        link: https://www.carnot.co.in/
-        # link_text: boringcompany.com
-        sub_title: Engg. Manager
-        caption: June 2022 - Present
-        quote: >
-          Solving 21st century problems by digging holes and making game-changing products like advanced irrigation systems and smart farming solutions, revolutionizing agriculture in India and empowering farmers with innovative, sustainable technologies.
-        description: | # this will include new lines to allow paragraphs
-            An AI-enabled Agri IoT platform. Supported by Qualcomm. Raised Series B from Mahindra & Whiteboard capital. Our flagship product is the Krish e Smart Kit – a business management product for the rental tractor entrepreneur. Our customers typically improve their tractor income up to 30% making the payback period for Krish e Smart Kit less than 2 months.
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Uttar Pradesh Technical University(UPTU)
-        caption: 2009 - 2013
-        sub_title: B.Tech. in Computer Science
-        quote: >
-          Dr. A.P.J. Abdul Kalam Technical University (AKTU) (formerly UPTU) was established in May 2000 by the Government of Uttar Pradesh with a mission to acclimate and cultivate the excellence in technical education and research by integrating human values and ethics among students. The University is affiliating in nature and its jurisdiction spans the entire state of Uttar Pradesh in affiliating 700+ colleges/institutions imparting graduate, postgraduate and doctoral level training in all government and private institutions located in all over UP.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time IN university and learnt a lot about a healthy work life balance.
+    - title: A Little More About Me
+      layout: text
+      content: | # this will include new lines to allow paragraphs
+        Alongside my interests in software engineering some of my other interests and hobbies are:
+        - AI & GPT
+        - Swimming
+        - Knitting
+        - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my other interests and hobbies are:
-      - AI & GPT
-      - Swimming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+        Look at this cool image  
+        ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  # Footer
+  footer_show_references: true
+  # references_title: References on request (Override references text)
 
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+  # Build settings
+  remote_theme: sproogen/resume-theme
 
-# Build settings
-remote_theme: sproogen/resume-theme
+  sass:
+    sass_dir: _sass
+    style: compressed
 
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+  plugins:
+  - jekyll-seo-tag
