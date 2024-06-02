@@ -109,9 +109,9 @@
            • Free Doctor Chat.
            • Doctor over a Phone Call.
 
-      - title: Experience # Title for the section
-        layout: list # Type of content section (list/text)
-        content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
         - layout: left
           title: Carnot Technologies
           link: https://www.carnot.co.in/
