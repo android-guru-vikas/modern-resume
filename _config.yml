@@ -49,7 +49,8 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Vikas and I'm working as Engg. Manager at M&M Group currently. Skilled in Android, Objective C, Java, Realm, RoomDB, Online/Offline Framework, and iOS Applications. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused on Computer Science exploring new technologies and learning more about product architecture and engineering.
-  \n\nI am most skilled in: <mark>Android</mark> and <mark>Eating Pizza</mark>
+  
+  I am most skilled in: <mark>Android</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Kisaan Diary : Agricultural Diary
