@@ -109,64 +109,37 @@
            • Free Doctor Chat.
            • Doctor over a Phone Call.
 
-
-  - title: Experience
-    layout: list
-    content:
+  
+  - title: Education # Title for the section
+   layout: list
+   content:
       - layout: left
-        title: Carnot Technologies
-        link: https://www.carnot.co.in/
-        sub_title: Engg. Manager
-        caption: June 2022 - Present
+        title: Uttar Pradesh Technical University(UPTU)
+        caption: 2009 - 2013
+        sub_title: B.Tech. in Computer Science
         quote: >
-          Solving 21st century problems by digging holes and making game-changing
-          products like advanced irrigation systems and smart farming solutions,
-          revolutionizing agriculture in India and empowering farmers with
-          innovative, sustainable technologies.
-        description: >
-          An AI-enabled Agri IoT platform. Supported by Qualcomm. Raised
-          Series B from Mahindra & Whiteboard capital. Our flagship product is the
-          Krish e Smart Kit – a business management product for the rental tractor
-          entrepreneur. Our customers typically improve their tractor income up to
-          30% making the payback period for Krish e Smart Kit less than 2 months.
-    footer_show_references: true
-    remote_theme: sproogen/resume-theme
-    sass:
-      sass_dir: _sass
-      style: compressed
-    plugins:
-      - jekyll-seo-tag
+            Dr. A.P.J. Abdul Kalam Technical University (AKTU) (formerly UPTU) was established in May 2000 by the Government of Uttar Pradesh with a mission to acclimate and cultivate the excellence in technical education and research by integrating human values and ethics among students. The University is affiliating in nature and its jurisdiction spans the entire state of Uttar Pradesh in affiliating 700+ colleges/institutions imparting graduate, postgraduate and doctoral level training in all government and private institutions located in all over UP.
+        description: | # this will include new lines to allow paragraphs
+            During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time IN university and learnt a lot about a healthy work life balance.
 
-  # - title: Education # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       title: Uttar Pradesh Technical University(UPTU)
-  #       caption: 2009 - 2013
-  #       sub_title: B.Tech. in Computer Science
-  #       quote: >
-  #           Dr. A.P.J. Abdul Kalam Technical University (AKTU) (formerly UPTU) was established in May 2000 by the Government of Uttar Pradesh with a mission to acclimate and cultivate the excellence in technical education and research by integrating human values and ethics among students. The University is affiliating in nature and its jurisdiction spans the entire state of Uttar Pradesh in affiliating 700+ colleges/institutions imparting graduate, postgraduate and doctoral level training in all government and private institutions located in all over UP.
-  #       description: | # this will include new lines to allow paragraphs
-  #           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time IN university and learnt a lot about a healthy work life balance.
-
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #       Alongside my interests in software engineering some of my other interests and hobbies are:
-  #       - AI & GPT
-  #       - Swimming
-  #       - Knitting
+ - title: A Little More About Me
+   layout: text
+   content: | # this will include new lines to allow paragraphs
+        Alongside my interests in software engineering some of my other interests and hobbies are:
+        - AI & GPT
+        - Swimming
+        - Knitting
         
-  # # Footer
-  # footer_show_references: true
-  # # references_title: References on request (Override references text)
+  # Footer
+  footer_show_references: true
+  # references_title: References on request (Override references text)
 
-  # # Build settings
-  # remote_theme: sproogen/resume-theme
+  # Build settings
+  remote_theme: sproogen/resume-theme
 
-  # sass:
-  #   sass_dir: _sass
-  #   style: compressed
+  sass:
+    sass_dir: _sass
+    style: compressed
 
-  # plugins:
-  # - jekyll-seo-tag
+  plugins:
+  - jekyll-seo-tag
