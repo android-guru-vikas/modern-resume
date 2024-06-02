@@ -1,6 +1,6 @@
   # Site
   repository: sproogen/modern-resume-theme
-  favicon: images/favicon.ico
+  favicon: https://i.imgur.com/tMLGAY9.png
 
   # Content configuration version
   version: 2
@@ -12,7 +12,7 @@
   website: https://medium.com/awesomeandroid
 
   # Dark Mode (true/false/never)
-  darkmode: true
+  darkmode: false
 
   # Social links
   twitter_username: vikas_bharti26
