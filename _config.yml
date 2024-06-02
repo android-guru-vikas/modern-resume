@@ -71,6 +71,7 @@
           Krish-e : Kheti Ke Liye App
         description: | # this will include new lines to allow paragraphs
           Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
+      
       - layout: top-middle
         title: Krishe Smart Kit
         link: https://play.google.com/store/apps/details?id=com.krishe.rentalpartner
@@ -103,9 +104,9 @@
         description: | # this will include new lines to allow paragraphs
           The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
 
-    - title: Experience # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
+      - title: Experience # Title for the section
+        layout: list # Type of content section (list/text)
+        content:
         - layout: left
           title: Carnot Technologies
           link: https://www.carnot.co.in/
@@ -117,9 +118,9 @@
           description: | # this will include new lines to allow paragraphs
               An AI-enabled Agri IoT platform. Supported by Qualcomm. Raised Series B from Mahindra & Whiteboard capital. Our flagship product is the Krish e Smart Kit – a business management product for the rental tractor entrepreneur. Our customers typically improve their tractor income up to 30% making the payback period for Krish e Smart Kit less than 2 months.
     
-    - title: Education # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
+      - title: Education # Title for the section
+        layout: list # Type of content section (list/text)
+        content:
         - layout: left
           title: Uttar Pradesh Technical University(UPTU)
           caption: 2009 - 2013
@@ -129,18 +130,14 @@
           description: | # this will include new lines to allow paragraphs
             During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time IN university and learnt a lot about a healthy work life balance.
 
-    - title: A Little More About Me
-      layout: text
-      content: | # this will include new lines to allow paragraphs
+      - title: A Little More About Me
+        layout: text
+        content: | # this will include new lines to allow paragraphs
         Alongside my interests in software engineering some of my other interests and hobbies are:
         - AI & GPT
         - Swimming
         - Knitting
-        - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-        Look at this cool image  
-        ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+        
   # Footer
   footer_show_references: true
   # references_title: References on request (Override references text)
