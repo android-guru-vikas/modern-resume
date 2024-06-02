@@ -84,24 +84,25 @@
           title: Zee News
           link: https://play.google.com/store/apps/details?id=com.zeenews.hindinews
           quote: >
-                  News App
+            News App
           description: | # this will include new lines to allow paragraphs
-                      ZEE News App brings to you the latest news, hindi news updates, breaking news, live news coverage, trending stories from Republic of India and around the world in 9 different languages – English, Hindi (हिंदी समाचार) , Marathi (24 Taas), Bengali (24 Ghanta), Tamil, Malayalam, Gujarati, Telugu and Kannada. Keep track of news live and daily news headlines on your mobile - anytime, anywhere, on the go.
+            ZEE News App brings to you the latest news, hindi news updates, breaking news, live news coverage, trending stories from Republic of India and around the world in 9 different languages – English, Hindi (हिंदी समाचार) , Marathi (24 Taas), Bengali (24 Ghanta), Tamil, Malayalam, Gujarati, Telugu and Kannada. Keep track of news live and daily news headlines on your mobile - anytime, anywhere, on the go.
 
         - layout: top-middle
           title: ABP News
           link: https://play.google.com/store/apps/details?id=com.winit.starnews.hin
           quote: >
-                  News App
+            News App
           description: | # this will include new lines to allow paragraphs
-                  ABP Live News, India's leading TV news channel: The official ABP Live App brings the latest and top news in Hindi, English, Marathi, Bengali, Gujarati, Punjabi, Tamil and Telugu languages under one umbrella. ABP, India's leading TV news channel, offers easy access to Live TV of all its channels on the app. Get latest updates (ताज़ा हिन्दी खबर), breaking and trending stories from India, World (अंतरराष्ट्रीय समाचार), Sports (खेल समाचार), Bollywood, States, Politics, Tech and much more.
+            BP Live News, India's leading TV news channel: The official ABP Live App brings the latest and top news in Hindi, English, Marathi, Bengali, Gujarati, Punjabi, Tamil and Telugu languages under one umbrella. ABP, India's leading TV news channel, offers easy access to Live TV of all its channels on the app. Get latest updates (ताज़ा हिन्दी खबर), breaking and trending stories from India, World (अंतरराष्ट्रीय समाचार), Sports (खेल समाचार), Bollywood, States, Politics, Tech and much more.
+        
         - layout: top-middle
           title: Visit : Health Benefits Platform
           link: https://play.google.com/store/apps/details?id=com.getvisitapp.android
           quote: >
-                  Revolutionizing Water Management in Agriculture
+            Revolutionizing Water Management in Agriculture
           description: | # this will include new lines to allow paragraphs
-                  The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
+            The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
         
 
     - title: Experience # Title for the section
