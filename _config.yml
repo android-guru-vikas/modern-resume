@@ -78,8 +78,8 @@ content:
         title: Carnot Technologies
         link: https://www.carnot.co.in/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Engg. Manager
+        caption: June 2022 - Present
         quote: >
           Solving 21st century problems by digging holes and making game-changing products like advanced irrigation systems and smart farming solutions, revolutionizing agriculture in India and empowering farmers with innovative, sustainable technologies.
         description: | # this will include new lines to allow paragraphs
@@ -88,22 +88,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Uttar Pradesh Technical University(UPTU)
+        caption: 2009 - 2013
+        sub_title: B.Tech. in Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Dr. A.P.J. Abdul Kalam Technical University (AKTU) (formerly UPTU) was established in May 2000 by the Government of Uttar Pradesh with a mission to acclimate and cultivate the excellence in technical education and research by integrating human values and ethics among students. The University is affiliating in nature and its jurisdiction spans the entire state of Uttar Pradesh in affiliating 700+ colleges/institutions imparting graduate, postgraduate and doctoral level training in all government and private institutions located in all over UP.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time IN university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - AI & GPT
+      - Swimming
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
