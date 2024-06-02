@@ -111,8 +111,8 @@
 
   
   - title: Education # Title for the section
-   layout: list
-   content:
+    layout: list
+    content:
       - layout: left
         title: Uttar Pradesh Technical University(UPTU)
         caption: 2009 - 2013
