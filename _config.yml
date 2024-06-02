@@ -53,57 +53,56 @@
     I am most skilled in: <mark>Android</mark> and <mark>Eating Pizza</mark>
 
   content:
-    - title: Projects # Kisaan Diary : Agricultural Diary
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: top-middle
-          title: Kisaan Diary
-          link: https://play.google.com/store/apps/details?id=com.carnot.krishe.kisaandiary
-          # link_text: Project Website
-          # additional_links:
-          #   - title:  sproogen/modern-resume-theme
-          #     icon: fab fa-github
-          #     url: github.com/sproogen/modern-resume-theme
-            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #   icon: fab fa-github
-            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-          quote: >
-            Krish-e : Kheti Ke Liye App
-          description: | # this will include new lines to allow paragraphs
-            Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
+  - title: Projects # Kisaan Diary : Agricultural Diary
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Kisaan Diary
+        link: https://play.google.com/store/apps/details?id=com.carnot.krishe.kisaandiary
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Krish-e : Kheti Ke Liye App
+        description: | # this will include new lines to allow paragraphs
+          Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
 
-        - layout: top-middle
-          title: Krishe Smart Kit
-          link: https://play.google.com/store/apps/details?id=com.krishe.rentalpartner
-          quote: >
-            Revolutionizing Tractor Management in Agriculture
-          description: | # this will include new lines to allow paragraphs
-            Krish-e SmartKit brings advanced GPS Live tracking technology to every Tractor in India. It connects your tractor to your phone and helps you manage the work done, security, and activity of your Tractor.
+      - layout: top-middle
+        title: Krishe Smart Kit
+        link: https://play.google.com/store/apps/details?id=com.krishe.rentalpartner
+        quote: >
+          Revolutionizing Tractor Management in Agriculture
+        description: | # this will include new lines to allow paragraphs
+          Krish-e SmartKit brings advanced GPS Live tracking technology to every Tractor in India. It connects your tractor to your phone and helps you manage the work done, security, and activity of your Tractor.
 
-        - layout: top-middle
-          title: Zee News
-          link: https://play.google.com/store/apps/details?id=com.zeenews.hindinews
-          quote: >
-            News App
-          description: | # this will include new lines to allow paragraphs
-            ZEE News App brings to you the latest news, hindi news updates, breaking news, live news coverage, trending stories from Republic of India and around the world in 9 different languages – English, Hindi (हिंदी समाचार) , Marathi (24 Taas), Bengali (24 Ghanta), Tamil, Malayalam, Gujarati, Telugu and Kannada. Keep track of news live and daily news headlines on your mobile - anytime, anywhere, on the go.
+      - layout: top-middle
+        title: Zee News
+        link: https://play.google.com/store/apps/details?id=com.zeenews.hindinews
+        quote: >
+          News App
+        description: | # this will include new lines to allow paragraphs
+          ZEE News App brings to you the latest news, hindi news updates, breaking news, live news coverage, trending stories from Republic of India and around the world in 9 different languages – English, Hindi (हिंदी समाचार), Marathi (24 Taas), Bengali (24 Ghanta), Tamil, Malayalam, Gujarati, Telugu and Kannada. Keep track of news live and daily news headlines on your mobile - anytime, anywhere, on the go.
 
-        - layout: top-middle
-          title: ABP News
-          link: https://play.google.com/store/apps/details?id=com.winit.starnews.hin
-          quote: >
-            News App
-          description: | # this will include new lines to allow paragraphs
-            BP Live News, India's leading TV news channel: The official ABP Live App brings the latest and top news in Hindi, English, Marathi, Bengali, Gujarati, Punjabi, Tamil and Telugu languages under one umbrella. ABP, India's leading TV news channel, offers easy access to Live TV of all its channels on the app. Get latest updates (ताज़ा हिन्दी खबर), breaking and trending stories from India, World (अंतरराष्ट्रीय समाचार), Sports (खेल समाचार), Bollywood, States, Politics, Tech and much more.
+      - layout: top-middle
+        title: ABP News
+        link: https://play.google.com/store/apps/details?id=com.winit.starnews.hin
+        quote: >
+          News App
+        description: | # this will include new lines to allow paragraphs
+          BP Live News, India's leading TV news channel: The official ABP Live App brings the latest and top news in Hindi, English, Marathi, Bengali, Gujarati, Punjabi, Tamil and Telugu languages under one umbrella. ABP, India's leading TV news channel, offers easy access to Live TV of all its channels on the app. Get latest updates (ताज़ा हिन्दी खबर), breaking and trending stories from India, World (अंतरराष्ट्रीय समाचार), Sports (खेल समाचार), Bollywood, States, Politics, Tech and much more.
         
-        - layout: top-middle
-          title: Visit : Health Benefits Platform
-          link: https://play.google.com/store/apps/details?id=com.getvisitapp.android
-          quote: >
-            Revolutionizing Water Management in Agriculture
-          description: | # this will include new lines to allow paragraphs
-            The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
-        
+      - layout: top-middle
+        title: Visit : Health Benefits Platform
+        link: https://play.google.com/store/apps/details?id=com.getvisitapp.android
+        quote: >
+          Revolutionizing Water Management in Agriculture
+        description: | # this will include new lines to allow paragraphs
+          The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
 
     - title: Experience # Title for the section
       layout: list # Type of content section (list/text)
@@ -118,6 +117,7 @@
             Solving 21st century problems by digging holes and making game-changing products like advanced irrigation systems and smart farming solutions, revolutionizing agriculture in India and empowering farmers with innovative, sustainable technologies.
           description: | # this will include new lines to allow paragraphs
               An AI-enabled Agri IoT platform. Supported by Qualcomm. Raised Series B from Mahindra & Whiteboard capital. Our flagship product is the Krish e Smart Kit – a business management product for the rental tractor entrepreneur. Our customers typically improve their tractor income up to 30% making the payback period for Krish e Smart Kit less than 2 months.
+    
     - title: Education # Title for the section
       layout: list # Type of content section (list/text)
       content:
