@@ -12,20 +12,20 @@ email: dev.vikas.bharti@carnot.co.in
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: vikas_bharti26
+github_username:  android-guru-vikas
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: bhartivikas
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
