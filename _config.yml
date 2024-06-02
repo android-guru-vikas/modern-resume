@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
 
-     - layout: top-middle
+      - layout: top-middle
         title: Smart Irrigation System
         link: https://example.com/smart-irrigation
         quote: >
@@ -80,7 +80,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
 
-          
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
