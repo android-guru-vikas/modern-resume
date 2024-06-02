@@ -100,9 +100,14 @@
         title: Visit - Health Benefits Platform
         link: https://play.google.com/store/apps/details?id=com.getvisitapp.android
         quote: >
-          Revolutionizing Water Management in Agriculture
+          Revolutionizing HealthCare in India
         description: | # this will include new lines to allow paragraphs
-          The Smart Irrigation System is designed to optimize water usage in farming, ensuring that crops receive the right amount of water at the right time. This technology reduces water waste, increases crop yields, and supports sustainable agricultural practices in India.
+          VISIT is India's fastest and Best Free Doctor Consult & Healthcare Chatbot app!
+           • Artificial Intelligence Healthcare Assistant.
+           • Fitness and health trackers.
+           • Artificial Intelligence Symptom Checker.
+           • Free Doctor Chat.
+           • Doctor over a Phone Call.
 
       - title: Experience # Title for the section
         layout: list # Type of content section (list/text)
