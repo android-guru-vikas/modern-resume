@@ -46,7 +46,7 @@
 
   # About Section
   # about_title: About Me
-  about_profile_image: images/profile.jpg
+  about_profile_image: https://i.imgur.com/tMLGAY9.png
   about_content: | # this will include new lines to allow paragraphs
     Hi, my name's Vikas and I'm working as Engg. Manager at M&M Group currently. Skilled in Android, Objective C, Java, Realm, RoomDB, Online/Offline Framework, and iOS Applications. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused on Computer Science exploring new technologies and learning more about product architecture and engineering.
     
