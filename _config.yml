@@ -122,13 +122,13 @@
         description: | # this will include new lines to allow paragraphs
             During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time IN university and learnt a lot about a healthy work life balance.
 
- - title: A Little More About Me
-   layout: text
-   content: | # this will include new lines to allow paragraphs
-        Alongside my interests in software engineering some of my other interests and hobbies are:
-        - AI & GPT
-        - Swimming
-        - Knitting
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+          Alongside my interests in software engineering some of my other interests and hobbies are:
+          - AI & GPT
+          - Swimming
+          - Knitting
         
   # Footer
   footer_show_references: true
