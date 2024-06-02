@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: sproogen/modern-resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Vikas Bharti
 title: Engg. Manager/Mobile App Developer
 email: dev.vikas.bharti@carnot.co.in
-website: www.github.com/sproogen/resume-theme
+website: https://medium.com/awesomeandroid
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -48,17 +48,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Vikas and I'm working as Engg. Manager at M&M Group currently. I have 9+ years of experience in developing mobile apps and leading teams. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hi, my name's Vikas and I'm working as Engg. Manager at M&M Group currently. Skilled in Android, Objective C, Java, Realm, RoomDB, Online/Offline Framework, and iOS Applications. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused on Computer Science exploring new technologies and learning more about product architecture and engineering.
   I am most skilled in: <mark>Android</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Projects # Kisaan Diary : Agricultural Diary
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Kisaan Diary
+        link: https://play.google.com/store/apps/details?id=com.carnot.krishe.kisaandiary
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -68,24 +67,23 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Krish-e : Kheti Ke Liye App
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Krish-e is your one-stop solution for all of your agricultural needs. A digital farming app (kheti ke liye app) by Mahindra & Mahindra Limited. which offers technology-driven services that are innovative, inexpensive, and easily accessible for Indian kisan.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Carnot Technoligies Pvt. Ltd.
+        link: https://www.carnot.co.in/
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            An AI-enabled Agri IoT platform. Supported by Qualcomm. Raised Series B from Mahindra & Whiteboard capital. Our flagship product is the Krish e Smart Kit – a business management product for the rental tractor entrepreneur. Our customers typically improve their tractor income up to 30% making the payback period for Krish e Smart Kit less than 2 months.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
